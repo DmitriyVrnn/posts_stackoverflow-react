@@ -1,0 +1,21 @@
+.post-list{
+    margin-top: 50px;
+    padding-left: 0;
+}
+
+.post-list .post{
+    border-radius: 5px;
+    background-color: #4db6ac;
+    padding: 10px;
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.75);
+    list-style-type: none;
+    min-width: 50%;
+    width: 50em;
+    margin: 20px auto;
+}
+
+@media screen and (max-width: 1024px) {
+    .post-list .post{
+        width: 90%;
+    }
+}

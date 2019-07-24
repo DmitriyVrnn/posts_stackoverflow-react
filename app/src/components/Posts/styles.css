@@ -1,0 +1,16 @@
+.container{
+    height: 100vh;
+}
+
+.loader-block{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.loader-block .loader-label{
+    color: #376888;
+    font-size: 40px;
+}

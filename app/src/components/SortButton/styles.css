@@ -1,0 +1,24 @@
+.btn-wrapper {
+    padding-top: 50px;
+}
+
+.btn-sort {
+    height: 40px;
+    padding: 5px;
+    background: #424242;
+    border-radius: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.arrow-state{
+    font-size: 20px;
+    color: white;
+    font-family: "Comic Sans MS";
+}
+
+.arrow-state .fas{
+    padding-left: 5px;
+    font-size: 20px;
+    color: #4db6ac;
+}

@@ -1,0 +1,18 @@
+.post-link {
+    display: flex;
+    margin-top: 10px;
+    align-items: center;
+    color: white;
+    text-decoration: none;
+}
+
+.post-link .post-avatar {
+    min-width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.post-link .post-title {
+    margin-left: 10px;
+    text-align: left;
+}
